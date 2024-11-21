@@ -1,0 +1,41 @@
+name: uni_connect_2
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  line_awesome_flutter: ^2.0.0
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.16.0
+  cloud_firestore: ^4.14.0
+  firebase_storage: ^11.6.0
+  google_sign_in: ^6.1.6
+  firebase_database: ^10.4.0
+  flutter_pdfview: ^1.3.3
+  file_picker: ^8.0.0+1
+  image_picker: ^1.0.8
+  intl: ^0.18.0
+  flutter_launcher_icons: ^0.13.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/cut.jpg"  # Path to your app icon
+  adaptive_icon_background: "#FFFFFF"  # Only for Android, background color

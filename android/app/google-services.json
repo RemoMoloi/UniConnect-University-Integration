@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698913783043",
+    "project_id": "uniconnect-45f00",
+    "storage_bucket": "uniconnect-45f00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698913783043:android:2bbe9aa87179478cf9fd36",
+        "android_client_info": {
+          "package_name": "com.example.uni_connect_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTq-4wiMB07169Kt2ReaZ0wt9RZGtcILI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
